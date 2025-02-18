@@ -1,20 +1,19 @@
-# 🖩 ALU Verification using SystemVerilog  
+# 🖩 Digital Clock FSm using SystemVerilog  
 
-## 📄 ALU Verification Documentation  
+## 📄 Digital Clock FSM Documentation  
 [📥 Download Full Document (PDF)](Digital%20Clock%20FSM57.pdf)  
 
 ## 📌 Project Overview  
-This repository contains the **ALU Verification** project using **SystemVerilog**. The **Arithmetic Logic Unit (ALU)** is a crucial component of any processor, and its verification ensures correctness and reliability.  
+This repository contains the **Digital Clock FSM** project using **SystemVerilog**. The *Digital Clock FSM*, and its verification ensures correctness and reliability.  
 
-✅ **ALU RTL in Verilog/SystemVerilog**  
-✅ **Testbench using SystemVerilog UVM (Optional)**  
-✅ **Assertions (SVA) for Functional Verification**  
-✅ **Simulation and Waveform Analysis**  
+ **Clock RTL in Verilog/SystemVerilog**  
+ **Testbench using SystemVerilog UVM (Optional)**  
+ **Simulation and Waveform Analysis**  
 
 ---
 
 ## 🛠 Tools Used  
 - **SystemVerilog (RTL & Testbench)**  
-- **Functional Coverage & Assertions (SVA)**  
+- **Vivado Iverilog**  
 
 ---
